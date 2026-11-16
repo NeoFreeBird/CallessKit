@@ -1,0 +1,9 @@
+Package: com.self.callesskit
+Name: CallessKit
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Stop CallKit provider reset loops in any app under LiveContainer Multitask (LiveProcess), where CallKit rejects the app. Inactive in normal mode.
+Maintainer: Self
+Author: Self
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
